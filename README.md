@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 ## Run the Application
 
-**To run the application, use the following command:**
+To run the application, use the following command:
 
 ```bash
 streamlit run Diabetes_Prediction_Web_App.py 
