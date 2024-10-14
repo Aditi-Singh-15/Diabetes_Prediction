@@ -6,6 +6,7 @@ Diabetes is a chronic condition that affects millions of people worldwide. Early
 
 ## Live Demo
 
+
 You can try out the live demo of the Diabetes Prediction Web App [here](https://diabetesprediction-drdrh46xm6nyx4mcidm9b6.streamlit.app/).
 
 ## Installation
@@ -20,8 +21,15 @@ To run this project locally, follow these steps:
    ```bash
    pip install -r requirements.txt
 
+## Run the Application
 
-## Features
+**To run the application, use the following command:**
+
+```bash
+streamlit run Diabetes_Prediction_Web_App.py 
+```
+
+## Features 
 
 - **User-Friendly Interface**: The app provides an intuitive interface for users to input their health metrics.
 - **Predictive Model**: Uses a trained SVM classifier to predict diabetes based on user inputs.
